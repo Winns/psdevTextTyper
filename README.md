@@ -18,9 +18,7 @@ textTyper.print( 'Hello world!' );
 Name        | Type                            | Description
 ------------|---------------------------------| -------------
 $el         | jQuery element select           | Container for a text
-------------|---------------------------------| -------------
 interval    | Integer                         | Interval between letters
-------------|---------------------------------| -------------
 text        | String                          | Text to print
 
 ### Methods
