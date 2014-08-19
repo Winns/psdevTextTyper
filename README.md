@@ -13,8 +13,18 @@ var textTyper = new psdevTextTyper({
 textTyper.print( 'Hello world!' );
 ```
 
+### Config
+
+Name        | Type                            | Description
+------------|---------------------------------| -------------
+$el         | jQuery element select           | Container for a text
+------------|---------------------------------| -------------
+interval    | Integer                         | Interval between letters
+------------|---------------------------------| -------------
+text        | String                          | Text to print
+
 ### Methods
 
-Method        | Example       | Description
+Name        | Example       | Description
 ------------- | ------------- | -------------
-print         | `textTyper.print({ interval: 150, text: 'Hello world!' );`  | start text printing
+print         | `textTyper.print({ interval: 150, text: 'Hello world!' );`  | Start text printing
