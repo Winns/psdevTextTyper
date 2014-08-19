@@ -13,7 +13,7 @@ var textTyper = new psdevTextTyper({
 textTyper.print( 'Hello world!' );
 ```
 
-### Config
+### Options
 
 Name        | Type                            | Description
 ------------|---------------------------------| -------------
